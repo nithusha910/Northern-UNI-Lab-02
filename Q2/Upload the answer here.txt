@@ -1,1 +1,22 @@
-Upload the answer here
+public class IT26102586Lab2Q2{
+
+       public static void main(String[] args){
+	   
+	   double lenght=10;
+	   double pi=3.14;
+	   
+	   double perimeter=4*lenght;
+	   double radius=perimeter/(2*pi);
+	   
+	   System.out.println("Radius of the cricular fence:"+radius);
+	   
+	   
+	   }
+
+
+
+
+
+
+
+}
